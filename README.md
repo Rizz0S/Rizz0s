@@ -1,5 +1,5 @@
-## Oh, hello!
-### didn't see you there.
+### Oh, hello!
+*didn't see you there.*
 
 My name is Summer, like the season.
 
